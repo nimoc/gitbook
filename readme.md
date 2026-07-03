@@ -1,10 +1,10 @@
 ---
 layout: default 
-title: 2type/gitbook
+title: nimoc/gitbook
 permalink: /
 ---
 
-# 2type/gitbook
+# nimoc/gitbook
 
 > gitbook 在国内访问速度慢,而且可能打开崩溃完全不可用,所以我做了一个 jekyll 版 gitbook主题,可以自行部署静态资源在各大平台.
 
@@ -19,7 +19,7 @@ permalink: /
 
 ```yaml
 title: 你的网站标题
-remote_theme: 2type/gitbook
+remote_theme: nimoc/gitbook
 ```
 ## 页面
 
